@@ -1,0 +1,15 @@
+h1{
+    color: rgb(255, 60, 0);
+    font-size: x-large;
+}
+
+p{
+    color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    border-color: blue;
+    font-style: oblique;
+    font-variant: small-caps;
+}
